@@ -1,0 +1,7 @@
+Payment Method,Count of  amount_usd ,Sum of  amount_usd 2,,% of no.of transaction,% of transaction amount
+Card,13,52972,,43%,46%
+NetBanking,3,15306,,10%,13%
+UPI,9,34398,,30%,30%
+Wallet,5,13405,,17%,12%
+(blank),,,,0%,0%
+Grand Total,30,116081,,100%,100%
