@@ -1,0 +1,9 @@
+Metric,Value
+Total transactions in Gateway,9
+Total transactions in Ledger,10
+Duplicate transactions in Gateway,0
+Duplicate transactions in Ledger,0
+Records present in Gateway but missing in Ledger,1
+Records present in Ledger but missing in Gateway,2
+Transactions with amount mismatches,2
+Transactions with status mismatches,1

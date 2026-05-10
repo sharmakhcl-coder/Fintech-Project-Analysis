@@ -1,0 +1,6 @@
+merchant_id,merchant_name,merchant_category,total_transactions,total_amount_usd,avg_risk_score,high_value_transactions,high_risk_transactions,high_risk_ratio,risk_level
+M001,Alpha Mart,Grocery,11,40812,61.2,2,2,0.18,LOW
+M002,Beta Stores,Electronics,11,41782,69.36,3,5,0.45,MEDIUM
+M003,City Pharma,Healthcare,2,8640,40,0,0,0,LOW
+M004,Delta Travels,Travel,4,14600,48.75,1,1,0.25,MEDIUM
+M005,Eco Home,Home,2,10246,54.5,1,1,0.5,HIGH
